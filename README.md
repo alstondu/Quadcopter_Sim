@@ -36,7 +36,7 @@ This GitHub README outlines the process of modeling, simulating, and controlling
 
 ## Instructions
 - The MATLAB code for each scenario is located in separate folders labeled S1, S2, and S3.
-- Please refer to the referenced document for a detailed understanding of the dynamics and control strategies before starting the exercise.
+- Please refer to the referenced document for a detailed understanding of the dynamics and control strategies.
 - It's crucial to read the errata document for any corrections to the original material.
 
 ## Additional Notes
