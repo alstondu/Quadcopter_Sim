@@ -1,7 +1,7 @@
 # Quadcopter Simulator
 
 ## Overview
-This GitHub README outlines the process of modeling, simulating, and controlling a quadcopter drone under various conditions using MATLAB. The project is based on the dynamic model and control strategies provided in "Quadcopter Dynamics, Simulation, and Control" by A. Gibiansky [[1]] and corrections in the attached errata document.
+This GitHub README outlines the process of modeling, simulating, and controlling a quadcopter drone under various conditions using MATLAB. The project is based on the dynamic model and control strategies provided in "Quadcopter Dynamics, Simulation, and Control" by A. Gibiansky [[1]] and corrections in the attached errata document [Errata - Modelling, Simulating, and controlling a Quadcopter.pdf](https://github.com/alstondu/Quadcopter_Simulator/blob/main/Errata%20-%20Modelling%2C%20Simulating%2C%20and%20controlling%20a%20Quadcopter.pdf).
 
 ## Scenario Descriptions
 
