@@ -1,4 +1,4 @@
-# Quadcopter Simulator
+# Quadcopter Sim
 <p align="left">
   <a href="YOUR_LINK_HERE">
     <img src="https://skillicons.dev/icons?i=github,md,latex,matlab">
